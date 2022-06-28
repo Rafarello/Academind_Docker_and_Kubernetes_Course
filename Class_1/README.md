@@ -1,6 +1,6 @@
 ### Class 1 - Imagens e containers
 
-Comandos interessantes:
+### Comandos interessantes:
 
 `docker ps -a` 
 
@@ -20,7 +20,7 @@ INTERNAL_DOCKER_CONTAINER_EXPOSE_PORT = Porta exposta no Dockerfile
 
 IMAGE = Código da image gerada na build
 
-Flags interessantes:
+### Flags interessantes:
 
 `docker run -d IMAGE` de detached => Cria um container baseado em uma `IMAGE` de maneira `detached`, ou seja, não trava o terminal e não mostra os logs enquanto o terminal estivesse aberto
 
