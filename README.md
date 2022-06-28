@@ -1,1 +1,3 @@
-# Academind_Docker_and_Kubernetes_Course
+# Academind Docker and Kubernetes Course
+
+### Aula 0 - Instalando Docker e iniciando primeiro projeto Dockerizado!
