@@ -1,3 +1,4 @@
-# Academind Docker and Kubernetes Course
+# Academind Docker and Kubernetes Course repository!
 
-### Aula 0 - Instalando Docker e iniciando primeiro projeto Dockerizado!
+### Course link: https://www.udemy.com/course/docker-kubernetes-the-practical-guide
+
