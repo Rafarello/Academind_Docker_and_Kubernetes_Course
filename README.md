@@ -1,3 +1,5 @@
-# Academind_Docker_and_Kubernetes_Course
+# Academind Docker and Kubernetes Course repository!
 
-### Aula 1 - Imagens e containers
+### Course link: https://www.udemy.com/course/docker-kubernetes-the-practical-guide
+
+
