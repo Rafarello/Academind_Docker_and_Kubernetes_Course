@@ -32,6 +32,10 @@ IMAGE = Código da image gerada na build
 
 `docker logs -f CONTAINER` de follow => Continua mostrando os logs daquele container, como se estivesse de maneira `attached`
 
+`docker run -it IMAGE` de terminal interativo => Cria um container baseado em uma `IMAGE` de maneira que permita esse container usar um terminal interativo, para aplicações que necessitem de inputs de usuário
+
+`docker start -ai CONTAINER` de attached e interativo => Inicia um `CONTAINER` de maneira que possa interagir de maneira iterativa, que necessite de inputs do usuário
+
 Observações:
 
 A forma padrão de rodar o `docker run` é de maneira `attached`
