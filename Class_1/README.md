@@ -36,6 +36,13 @@ IMAGE = Código da image gerada na build
 
 `docker start -ai CONTAINER` de attached e interativo => Inicia um `CONTAINER` de maneira que possa interagir de maneira iterativa, que necessite de inputs do usuário
 
+`docker run --rm IMAGE` de remove (detalhe que são 2 --) => Remove o container que for iniciado a partir da `IMAGE` depois que ele for parado automaticamente
+
+`docker run --name NOME_DO_CONTAINER IMAGE` => Dá um nome para o container criado a partir da `IMAGE`
+
+`docker build -t NOME:TAG .` => Cria uma image com `NOME` e `TAG` definidas. 
+Obs: `NOME` pode ser chamado também de `REPOSITORY`
+
 Observações:
 
 A forma padrão de rodar o `docker run` é de maneira `attached`
